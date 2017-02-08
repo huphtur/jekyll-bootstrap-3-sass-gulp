@@ -1,0 +1,20 @@
+{
+  "name": "jekyll-bootstrap-3-sass-gulp",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "M. Appelman <huphtur@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7"
+  }
+}

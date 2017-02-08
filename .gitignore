@@ -1,0 +1,5 @@
+dist
+.DS_Store
+.awspublish*
+node_modules
+bower_components
